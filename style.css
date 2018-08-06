@@ -1,0 +1,52 @@
+html, body{
+    background-color: black;
+    
+}
+
+header{
+  font-family: 'orbitron', bold;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  text-shadow: 0px 4px 12px #336699;
+    
+} 
+
+img.header{
+    max-width: 100%;
+    margin-bottom: -110px;
+    margin-top: -200px;
+  
+    
+    
+}
+
+#h2{
+    margin: 75px 0px 20px 20px;
+    font-family: 'orbitron', medium;
+    color: #19334d;
+    text-shadow: 1px 2px 1px #336699; 
+    
+}
+
+#h3{ 
+    margin: 75px 0px 20px 20px;
+    font-size: 25px;
+    font-family: 'orbitron', medium;
+    color: #19334d;
+    text-shadow: 1px 2px 1px #336699;
+}
+
+.content{
+ 
+    
+    font-family: 'orbitron';
+    color: #264d73;
+    font-size: 16px;
+    margin: 50px 500px 50px 100px ;
+}
+
+.big-image{
+    
+    max-width: 75%;
+}
