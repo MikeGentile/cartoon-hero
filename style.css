@@ -46,6 +46,7 @@ img.header{
     margin: 50px 500px 50px 100px ;
 }
 
-.big-image{
+ul li{
+    display: block
     
-    max-width: 75%;}
+}
