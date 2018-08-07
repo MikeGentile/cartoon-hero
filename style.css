@@ -59,3 +59,16 @@ img.resize{
     width: 150px;
     height: 150px;
    }
+
+footer{
+    
+  font-family: 'orbitron', bold;
+  color: black;
+  text-align: center;
+  font-size: 10px;
+  text-shadow: 0px 4px 12px #336699;
+}
+
+footer ul li{
+    display: inline;
+}
