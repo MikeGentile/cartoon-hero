@@ -12,8 +12,7 @@ header{
     
 } 
 
-a{
-     
+.glitch {
   position: relative;
 }
 @keyframes noise-anim {
@@ -24,7 +23,7 @@ a{
     }
   }
 }
-a::after {
+.glitch::after {
   content: attr(data-text);
   position: absolute;
   left: 2px;
@@ -45,7 +44,7 @@ a::after {
     }
   }
 }
-a::before{
+.glitch::before{
   content: attr(data-text);
   position: absolute;
   left: -1px;
@@ -57,7 +56,6 @@ a::before{
   clip: rect(0,900px,0,0); 
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
- 
 
 img.header{
     max-width: 100%;
