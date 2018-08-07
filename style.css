@@ -43,10 +43,11 @@ img.header{
     font-family: 'orbitron';
     color: #264d73;
     font-size: 16px;
-    margin: 50px 500px 50px 100px ;
+    margin: 50px 500px 50px 100px;
+    image-resolution: 250px;
 }
 
 ul li{
-    display: block;
+    display:
     
 }
