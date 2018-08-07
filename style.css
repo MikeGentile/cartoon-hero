@@ -12,6 +12,10 @@ header{
     
 } 
 
+a:hover{
+  background-color:#8cb3d9;   
+} 
+
 img.header{
     max-width: 100%;
     margin-bottom: -110px;
@@ -50,7 +54,7 @@ img.header{
 
     
 img.resize{ 
-    margin:10px;
+    margin:20px 10px;
     width: 150px;
     height: 150px;
    }
