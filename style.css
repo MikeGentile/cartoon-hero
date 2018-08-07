@@ -45,13 +45,12 @@ img.header{
     font-size: 16px;
     margin: 50px 500px 50px 100px;
     }
-img{
-    margin-bottom: 10px;
-}
+
+
 
     
 img.resize{ 
-
+    margin:10px;
     width: 150px;
     height: 150px;
    }
