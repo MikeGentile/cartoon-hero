@@ -44,11 +44,10 @@ img.header{
     color: #264d73;
     font-size: 16px;
     margin: 50px 500px 50px 100px;
+    }
 
-}
-ul img.resize{
+img.ul{ 
+
     width: 100px;
     height: 100px;
-   
-    
-}
+   }
