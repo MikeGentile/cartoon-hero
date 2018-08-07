@@ -60,6 +60,10 @@ img.resize{
     height: 150px;
    }
 
+footer{
+    margin-top: 20px;
+    padding: 40px 20px;
+}
 ul{
     
   font-family: 'orbitron', bold;
