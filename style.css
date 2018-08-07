@@ -60,14 +60,9 @@ img.resize{
     height: 150px;
    }
 
-footer{
-    margin-top: 20px;
-    padding: 40px 20px;
-}
-
-ul{
+.footer{
     
-    
+  font-family: 'orbitron', bold;
   color: black;
   text-align: center;
   font-size: 10px;
