@@ -36,9 +36,7 @@ img.header{
     color: #19334d;
     text-shadow: 1px 2px 1px #336699;
 }
-img.ul{
-    image-resolution: snap 250px
-}
+
 .content{
  
     
@@ -47,6 +45,11 @@ img.ul{
     font-size: 16px;
     margin: 50px 500px 50px 100px;
 
+}
+
+img.resize{
+    width: 250px;
+    height: 250px;
 }
 
 ul li{
