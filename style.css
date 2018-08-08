@@ -60,7 +60,7 @@ img.resize{
     height: 150px;
    }
 
-footer{
+.footer{
     
     font-size: 20px;
     color: white;
@@ -70,6 +70,6 @@ ul{
     text-align:center;
 }
 
-footer ul li{
+.footer ul li{
     display: inline
 }
