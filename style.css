@@ -60,15 +60,16 @@ img.resize{
     height: 150px;
    }
 
-.footer{
+footer{
     
-  font-family: 'orbitron', bold;
-  color: black;
-  text-align: center;
-  font-size: 10px;
-  text-shadow: 0px 4px 12px #336699;
+    font-size: auto;
+    color: white;
+}
+
+ul{
+    text-align:center;
 }
 
 footer ul li{
-    display: inline;
+    display: inline
 }
