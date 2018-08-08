@@ -64,12 +64,5 @@ img.resize{
     
     font-size: 20px;
     color: white;
-}
-
-ul{
-    text-align:center;
-}
-
-.footer ul li{
-    display: inline
-}
+    text-align: center;
+    
